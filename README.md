@@ -6,7 +6,7 @@
 # Awesome frontend [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 😎  Curated list of awesome frontend related resources 😎
 
-### Design & CSS
+## Design & CSS
 
 - [Learn CSS Grid](https://learncssgrid.com/)
 - [Flexbox.io](http://flexbox.io)
@@ -17,18 +17,16 @@
 ### Performance
 - [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)
 
-## Tools
+## SVG
 
-### SVG
-
-#### Icon packs
+### Icon packs
 
 - [Icongram](https://icongr.am/): Serving you 10000+ icons on the fly.
 - [iconmonstr](https://iconmonstr.com/): Free simple icons for your next project
 - [SVG Repo](https://www.svgrepo.com/): Browse 300.000+ SVG Vectors and Icons
 - [Noun Project](https://thenounproject.com/): Browse over 3 million SVG Icons
 
-#### Shapes
+### Shapes
 
 - [Blobmaker](https://www.blobmaker.app/): Make organic SVG shapes for your next design
 - [Blobs](https://blobs.app/): Generate beautiful blob shapes for web and flutter apps
@@ -36,31 +34,22 @@
 - [SVG Wave](https://svgwave.in/): A free & beautiful gradient SVG wave Generator
 - [Squircley](https://squircley.app/): SVG Squircle Maker
 
-#### Tools
-
-- [SVGO](https://github.com/svg/svgo): Nodejs-based tool for optimizing SVG vector graphics files.
-- [SVG OMG](https://jakearchibald.github.io/svgomg/): UI for SVGO
-- [GruntIcon](http://www.grunticon.com/): Makes it easy to use SVGs for icons, logos, illustrations and background images.
-- [GrumpIcon](http://www.grumpicon.com/): UI for GruntIcon
-- [Gulp SVGmin](https://github.com/ben-eb/gulp-svgmin): Minify SVG files with gulp.
-- [SVG Editor](https://petercollingridge.appspot.com/svg-editor): Online SVG optimization tool.
-
 ## Blogs
 
 - [CSS-Tricks](https://css-tricks.com/): Daily articles about CSS, HTML, JavaScript, and all things related to web design and development. By [Chris Coyier](https://github.com/chriscoyier) and various others.
 
-## Events
+## Inspiration and library resources
 
-- [Frontend Conferences](https://github.com/frontendfront/front-end-conferences): List of upcoming frontend related conferences
+- [CodyHouse](http://codyhouse.co/)
+- [Codrops](http://tympanus.net/codrops/)
+- [Codepen](http://codepen.io/)
 
-## Frameworks/Libraries
+## Vanilla JavaScript
 
-#### Frameworks
+- [macy.js](https://github.com/bigbitecreative/macy.js): A lightweight dependency-free JavaScript library designed to sort items vertically into columns by finding an optimum layout with a minimum height.
+- [glightbox](https://github.com/biati-digital/glightbox): Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes.
 
-- [Vue.js](https://vuejs.org/): The Progressive JavaScript Framework.
-- [Mithril](https://mithril.js.org/): Mithril is a modern client-side JavaScript framework for building Single Page Applications. 
-
-#### Animations
+## Animations
 
 - [swup.js](https://github.com/swup/swup): Complete, flexible, extensible and easy to use page transition library for your static web.
 - [Choregrapher.js](https://christinecha.github.io/choreographer-js/): a simple library to take care of complex CSS animations.
@@ -77,38 +66,29 @@
 - [waypoints](http://imakewebthings.com/waypoints/): Waypoints is the easiest way to trigger a function when you scroll to an element.
 - [saffron](https://github.com/colindresj/saffron): A simple Sass mixin library for animations and transitions
 
-#### Vanilla JavaScript
+## Testing & Optimization
 
-- [macy.js](https://github.com/bigbitecreative/macy.js): A lightweight dependency-free JavaScript library designed to sort items vertically into columns by finding an optimum layout with a minimum height.
-- [glightbox](https://github.com/biati-digital/glightbox): Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes.
+### Linters
 
-### CSS
-- [SASS](http://sass-lang.com/): is the most mature, stable, and powerful professional grade CSS extension language in the world.
-- [PostCSS](http://postcss.org/): A tool for transforming CSS with JavaScript.
+- [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer): PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards
+- [stylelint](https://stylelint.io/): A mighty, modern linter that helps you avoid errors and enforce conventions in your styles
+- [ESLint](https://eslint.org/): ESLint statically analyzes your code to quickly find problems
+- [doiuse](https://github.com/anandthakker/doiuse): Lint CSS for browser support against caniuse database
 
-#### Inspiration and libraries
+### Performance and website loading speed
 
-- [CodyHouse](http://codyhouse.co/)
-- [Codrops](http://tympanus.net/codrops/)
-- [Codepen](http://codepen.io/)
+- [WebPageTest](https://www.webpagetest.org/): Website Performance and Optimization Test
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/): The PageSpeed tools analyze and optimize your site following web best practices
+- [GTMetrix](https://gtmetrix.com/): GTmetrix gives you insight on how well your site loads and provides actionable recommendations on how to optimize it
 
-### Tools for build process
+### Image & SVG optimization
 
-- [Node.js](http://nodejs.org/): Node.js® is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
-- [RVM](https://rvm.io/): RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
-- [Webpack](http://webpack.github.io/): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. 
-- [Babel](https://babeljs.io/): is a JavaScript compiler.
-- [Gulp](http://gulpjs.com/): Automate and enhance your workflow (my gulpfile.js can be found in [devpackages](https://github.com/digitoimistodude/devpackages))
-- [BrowserSync](http://www.browsersync.io/): Time-saving synchronised browser testing. (included in Gulp like in many other awesome tasks, check out [devpackages](https://github.com/digitoimistodude/devpackages))
-- [npm](https://www.npmjs.com/): is the package manager for JavaScript
+- [Optimage](https://optimage.app/): Automatically compress images without losing quality
+- [ImageOptim](https://imageoptim.com/mac): ImageOptim makes images load faster
+- [SVGO](https://github.com/svg/svgo): Nodejs-based tool for optimizing SVG vector graphics files.
+- [SVG OMG](https://jakearchibald.github.io/svgomg/): UI for SVGO
 
-## Testing and debugging
-
-- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd): [Caniuse](http://caniuse.com/) command line tool
-- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/): The PageSpeed tools analyze and optimize your site following web best practices.
-- [GTMetrix](https://gtmetrix.com/): GTmetrix gives you insight on how well your site loads and provides actionable recommendations on how to optimize it.
-
-### Accessibility testing
+### Accessibility
 
 - [aXe](https://www.deque.com/axe/): The Standard in Accessibility Testing
 - [Siteimprove](https://siteimprove.com/en/accessibility/): Create more accessible, inclusive web content
@@ -126,7 +106,17 @@ stock photos in one place (CC0)
 - [Streetwill](http://streetwill.co/): Free Hi-Res Photos (CC0)
 - [Life of Pix](http://www.lifeofpix.com/): Free high-resolution photos (CC0)
 
-## Other apps and tools included in daily workflow
+## Tools for build process
+
+- [Node.js](http://nodejs.org/): Node.js® is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
+- [RVM](https://rvm.io/): RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
+- [Webpack](http://webpack.github.io/): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. 
+- [Babel](https://babeljs.io/): is a JavaScript compiler.
+- [Gulp](http://gulpjs.com/): Automate and enhance your workflow (my gulpfile.js can be found in [devpackages](https://github.com/digitoimistodude/devpackages))
+- [BrowserSync](http://www.browsersync.io/): Time-saving synchronised browser testing. (included in Gulp like in many other awesome tasks, check out [devpackages](https://github.com/digitoimistodude/devpackages))
+- [npm](https://www.npmjs.com/): is the package manager for JavaScript
+
+## Apps included in daily workflow
 
 - [PixelSnap](https://getpixelsnap.com/): The fastest way to measure everything on screen.
 - [ColorSnapper](http://www.colorsnapper.com/): The missing color picker for Mac
