@@ -25,6 +25,16 @@
 
 - [Icongram](https://icongr.am/): Serving you 10000+ icons on the fly.
 - [iconmonstr](https://iconmonstr.com/): Free simple icons for your next project
+- [SVG Repo](https://www.svgrepo.com/): Browse 300.000+ SVG Vectors and Icons
+- [Noun Project](https://thenounproject.com/): Browse over 3 million SVG Icons
+
+#### Shapes
+
+- [Blobmaker](https://www.blobmaker.app/): Make organic SVG shapes for your next design
+- [Blobs](https://blobs.app/): Generate beautiful blob shapes for web and flutter apps
+- [Get Waves](https://getwaves.io/): Create SVG waves for your next design
+- [SVG Wave](https://svgwave.in/): A free & beautiful gradient SVG wave Generator
+- [Squircley](https://squircley.app/): SVG Squircle Maker
 
 #### Tools
 
