@@ -34,6 +34,22 @@
 - [SVG Wave](https://svgwave.in/): A free & beautiful gradient SVG wave Generator
 - [Squircley](https://squircley.app/): SVG Squircle Maker
 
+### Illustrations
+
+- [unDraw](https://undraw.co/illustrations): Open source illustrations for any idea
+- [ManyPixels](https://www.manypixels.co/gallery): 2,000+ royalty-free illustrations to power up your designs
+- [Scale](https://2.flexiple.com/scale/all-illustrations): One new high-quality, open-source illustration each day
+
+## Typography 
+
+### Sans Fonts
+
+- [The Inter Font Family](https://github.com/rsms/inter): Inter is a typeface specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens
+
+### Monospace fonts
+
+- [SFMono](https://github.com/lemeb/a-better-ligaturizer/blob/master/output-fonts/SFMono.ttf): Apple Monospaced variant of San Francisco, Ligaturized version
+
 ## Blogs
 
 - [CSS-Tricks](https://css-tricks.com/): Daily articles about CSS, HTML, JavaScript, and all things related to web design and development. By [Chris Coyier](https://github.com/chriscoyier) and various others.
