@@ -122,28 +122,35 @@ stock photos in one place (CC0)
 - [Streetwill](http://streetwill.co/): Free Hi-Res Photos (CC0)
 - [Life of Pix](http://www.lifeofpix.com/): Free high-resolution photos (CC0)
 
-## Tools for build process
+## Tools
 
-- [Node.js](http://nodejs.org/): Node.js® is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
-- [RVM](https://rvm.io/): RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
-- [Webpack](http://webpack.github.io/): A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. 
-- [Babel](https://babeljs.io/): is a JavaScript compiler.
-- [Gulp](http://gulpjs.com/): Automate and enhance your workflow (my gulpfile.js can be found in [devpackages](https://github.com/digitoimistodude/devpackages))
-- [BrowserSync](http://www.browsersync.io/): Time-saving synchronised browser testing. (included in Gulp like in many other awesome tasks, check out [devpackages](https://github.com/digitoimistodude/devpackages))
-- [npm](https://www.npmjs.com/): is the package manager for JavaScript
+### Visual Studio Code extensions for front end design
 
-## Apps included in daily workflow
+- [stylefmt](https://marketplace.visualstudio.com/items?itemName=ronilaukkarinen.vscode-stylefmt): stylefmt is a tool that automatically formats your stylesheets.
+- [Bracket Pair Colorizer 2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2): This extension allows matching brackets to be identified with colours. 
+- [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize): A vscode extension to help visualize CSS colors in files.
+- [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss): Advanced autocompletion and refactoring support for SCSS
+- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint): Modern CSS/SCSS/Less linter.
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag): Highlights matching closing and opening tags
+- [webhint](https://marketplace.visualstudio.com/items?itemName=webhint.vscode-webhint): The Webhint Visual Studio Code extension provides diagnostic data for workspace files based on webhint analysis.
+- [doiuse](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-doiuse): Lint CSS for browser support against caniuse database.
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens): ErrorLens highlights the entire line wherever a diagnostic is generated and also prints the message inline.
+- [CSS var hint](https://marketplace.visualstudio.com/items?itemName=yanai101.css-var-hint): This simple extension adds more capability for CSS var hint
+- [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg): SVG Coding, Minify, Pretty, Preview All-In-One
 
+### Front end design mac apps
+
+- [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi): This extension helps develop your websites with pixel perfect accuracy!
 - [PixelSnap](https://getpixelsnap.com/): The fastest way to measure everything on screen.
 - [ColorSnapper](http://www.colorsnapper.com/): The missing color picker for Mac
+- [LittleIpsum](https://itunes.apple.com/us/app/littleipsum/id405772121?mt=12): The best Latin text generator for macOS. Incredibly quick and lightweight. And it's completely free!
+
+### Productivity
+
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake): Don't let your Mac fall asleep
 - [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12): With Amphetamine, you can effortlessly override your energy saver settings and keep your Mac awake.
-- [Trello](https://trello.com/ronilaukkarinen/recommend): Trello is the free, flexible, and visual way to organize anything with anyone.
-- [Todoist](http://todoist.com/): Todoist is the best online task management app and to-do list.
 - [f.lux](https://justgetflux.com/): Is your computer keeping you up late? f.lux is free software that warms up your computer display at night, to match your indoor lighting.
-- [ImageOptim](https://imageoptim.com/): better Save For Web
 - [Moom](http://manytricks.com/moom/): Move and zoom windows
-- [LittleIpsum](https://itunes.apple.com/us/app/littleipsum/id405772121?mt=12): The best Latin text generator for macOS. Incredibly quick and lightweight. And it's completely free!
 
 # Contributors
 - Open PR with your links
