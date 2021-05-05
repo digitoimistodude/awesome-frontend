@@ -14,8 +14,14 @@
 - [HTML Reference](http://htmlreference.io/): Features all elements and attributes of HTML
 - [CSS Reference](http://cssreference.io/): Features all elements and attributes of CSS
 
-### Performance
-- [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)
+### CSS/SVG generators
+
+- [The Hero Generator](https://hero-generator.netlify.app/)
+- [Blobmaker](https://www.blobmaker.app/): Make organic SVG shapes for your next design
+- [Blobs](https://blobs.app/): Generate beautiful blob shapes for web and flutter apps
+- [Get Waves](https://getwaves.io/): Create SVG waves for your next design
+- [SVG Wave](https://svgwave.in/): A free & beautiful gradient SVG wave Generator
+- [Squircley](https://squircley.app/): SVG Squircle Maker
 
 ## SVG
 
@@ -25,14 +31,6 @@
 - [iconmonstr](https://iconmonstr.com/): Free simple icons for your next project
 - [SVG Repo](https://www.svgrepo.com/): Browse 300.000+ SVG Vectors and Icons
 - [Noun Project](https://thenounproject.com/): Browse over 3 million SVG Icons
-
-### Shapes
-
-- [Blobmaker](https://www.blobmaker.app/): Make organic SVG shapes for your next design
-- [Blobs](https://blobs.app/): Generate beautiful blob shapes for web and flutter apps
-- [Get Waves](https://getwaves.io/): Create SVG waves for your next design
-- [SVG Wave](https://svgwave.in/): A free & beautiful gradient SVG wave Generator
-- [Squircley](https://squircley.app/): SVG Squircle Maker
 
 ### Illustrations
 
