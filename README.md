@@ -27,6 +27,7 @@
 
 ### Icon packs
 
+- [Iconic](https://iconic.app/): Free "do wtf you want with" pixel-perfect icons
 - [Icongram](https://icongr.am/): Serving you 10000+ icons on the fly.
 - [iconmonstr](https://iconmonstr.com/): Free simple icons for your next project
 - [SVG Repo](https://www.svgrepo.com/): Browse 300.000+ SVG Vectors and Icons
