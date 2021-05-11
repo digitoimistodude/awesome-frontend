@@ -61,8 +61,15 @@
 
 ## Vanilla JavaScript
 
-- [macy.js](https://github.com/bigbitecreative/macy.js): A lightweight dependency-free JavaScript library designed to sort items vertically into columns by finding an optimum layout with a minimum height.
+### Modals
+
+- [Cookie consent](https://github.com/orestbida/cookieconsent/): A lightweight & GDPR compliant cookie consent plugin written in vanilla JavaScript.
 - [glightbox](https://github.com/biati-digital/glightbox): Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes.
+- [Micromodal](https://github.com/Ghosh/micromodal): Micromodal.js is a lightweight, configurable and a11y-enabled modal library written in pure JavaScript.
+
+### For building layouts
+
+- [macy.js](https://github.com/bigbitecreative/macy.js): A lightweight dependency-free JavaScript library designed to sort items vertically into columns by finding an optimum layout with a minimum height.
 
 ## Animations
 
