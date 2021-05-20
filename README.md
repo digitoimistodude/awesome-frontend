@@ -32,6 +32,7 @@
 - [iconmonstr](https://iconmonstr.com/): Free simple icons for your next project
 - [SVG Repo](https://www.svgrepo.com/): Browse 300.000+ SVG Vectors and Icons
 - [Noun Project](https://thenounproject.com/): Browse over 3 million SVG Icons
+- [Gutenberg block icon library](https://github.com/WordPress/gutenberg/tree/trunk/packages/icons/src/library): Official gutenberg SVGs (found inside js files)
 
 ### Illustrations
 
