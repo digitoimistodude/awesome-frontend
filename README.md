@@ -27,6 +27,7 @@
 
 ### Icon packs
 
+- [Material Icons]https://fonts.google.com/icons?selected=Material+Icons:alarm_add&icon.query=layout(): Material Icons are available in five styles and a range of downloadable sizes and densities.
 - [Iconic](https://iconic.app/): Free "do wtf you want with" pixel-perfect icons
 - [Icongram](https://icongr.am/): Serving you 10000+ icons on the fly.
 - [iconmonstr](https://iconmonstr.com/): Free simple icons for your next project
