@@ -4,7 +4,7 @@
 </div>
 
 # Awesome frontend [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-😎  Curated list of awesome frontend related resources 😎
+😎  Curated list of awesome Dude frontend related resources 😎
 
 ## Design & CSS
 
@@ -27,6 +27,8 @@
 
 ### Icon packs
 
+- [Feather](https://feathericons.com/): Simply beautiful open source icons
+- [CSS.gg](https://css.gg/): 700+ Pure CSS, SVG & Figma UI Icons
 - [Iconoir](https://iconoir.com/): Iconoir is one of the biggest open source libraries with currently 914 SVG Icons.
 - [Material Icons](https://fonts.google.com/icons): Material Icons are available in five styles and a range of downloadable sizes and densities.
 - [Iconic](https://iconic.app/): Free "do wtf you want with" pixel-perfect icons
@@ -34,7 +36,7 @@
 - [iconmonstr](https://iconmonstr.com/): Free simple icons for your next project
 - [SVG Repo](https://www.svgrepo.com/): Browse 300.000+ SVG Vectors and Icons
 - [Noun Project](https://thenounproject.com/): Browse over 3 million SVG Icons
-- [Gutenberg block icon library](https://github.com/WordPress/gutenberg/tree/trunk/packages/icons/src/library): Official gutenberg SVGs (found inside js files)
+- [Orion](https://orioniconlibrary.com/all-icons): 8613 pro & free SVG icons for your Web, iOS, Android & design projects
 
 ### Illustrations
 
