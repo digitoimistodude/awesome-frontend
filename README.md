@@ -25,7 +25,7 @@
 
 ## SVG
 
-### Icon packs
+### Open source icon packs
 
 - [Feather](https://feathericons.com/): Simply beautiful open source icons
 - [CSS.gg](https://css.gg/): 700+ Pure CSS, SVG & Figma UI Icons
@@ -35,8 +35,10 @@
 - [Icongram](https://icongr.am/): Serving you 10000+ icons on the fly.
 - [iconmonstr](https://iconmonstr.com/): Free simple icons for your next project
 - [SVG Repo](https://www.svgrepo.com/): Browse 300.000+ SVG Vectors and Icons
-- [Noun Project](https://thenounproject.com/): Browse over 3 million SVG Icons
 - [Orion](https://orioniconlibrary.com/all-icons): 8613 pro & free SVG icons for your Web, iOS, Android & design projects
+- [Remix](https://remixicon.com/): Open source neutral style icon system
+- [Hero icons](https://heroicons.dev/): A set of free MIT-licensed high-quality SVG icons for UI development
+- [Ionicons](https://ionic.io/ionicons): Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere
 
 ### Illustrations
 
