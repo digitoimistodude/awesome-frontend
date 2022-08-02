@@ -125,6 +125,10 @@
 - [tota11y](https://github.com/Khan/tota11y): An accessibility (a11y) visualization toolkit
 - [WAVE](https://wave.webaim.org/extension/): Web accessibility evaluation tool
 
+### Placeholders & dummy content
+
+- [Lorem.space](https://lorem.space/): Lorem Ipsum fake image placeholder, API for placeholder images - but useful!
+
 ## Photos and videos
 
 - [StockSnap.io](https://stocksnap.io/): Beautiful free stock photos. (CC0)
