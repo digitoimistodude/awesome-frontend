@@ -110,8 +110,9 @@
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/): The PageSpeed tools analyze and optimize your site following web best practices
 - [GTMetrix](https://gtmetrix.com/): GTmetrix gives you insight on how well your site loads and provides actionable recommendations on how to optimize it
 
-### Image & SVG optimization
+### Image & SVG optimization and manipulation
 
+- [URL-encoder for SVG](https://yoksel.github.io/url-encoder/): rl-encoder, useful for SVG background elements.
 - [Optimage](https://optimage.app/): Automatically compress images without losing quality
 - [ImageOptim](https://imageoptim.com/mac): ImageOptim makes images load faster
 - [SVGO](https://github.com/svg/svgo): Nodejs-based tool for optimizing SVG vector graphics files.
