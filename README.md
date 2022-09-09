@@ -112,7 +112,7 @@
 
 ### Image & SVG optimization and manipulation
 
-- [URL-encoder for SVG](https://yoksel.github.io/url-encoder/): rl-encoder, useful for SVG background elements.
+- [URL-encoder for SVG](https://yoksel.github.io/url-encoder/): URL-encoder, useful for SVG background elements.
 - [Optimage](https://optimage.app/): Automatically compress images without losing quality
 - [ImageOptim](https://imageoptim.com/mac): ImageOptim makes images load faster
 - [SVGO](https://github.com/svg/svgo): Nodejs-based tool for optimizing SVG vector graphics files.
