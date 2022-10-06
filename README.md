@@ -1,31 +1,28 @@
 <div align="center">
-	<img width="400" src="https://rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
-	<br>
+<img width="400" src="https://user-images.githubusercontent.com/1534150/194293308-b187bd0d-24c5-4d78-99c5-80be841b18d9.svg" alt="awesome">
+<br>
 </div>
 
-# Awesome frontend [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome frontend [![Awesome](https://user-images.githubusercontent.com/1534150/194293453-be2163cb-7351-4728-9766-847ae09c49cc.svg)](https://github.com/sindresorhus/awesome)
 😎  Curated list of awesome Dude frontend related resources 😎
 
-## Design & CSS
+## CSS
 
-- [Learn CSS Grid](https://learncssgrid.com/)
-- [Flexbox.io](http://flexbox.io)
+### Grid tutorials
+
+- [Learn CSS Grid](https://learncssgrid.com/): Jonathan Suh's free guide to learning CSS Grid
+- [Flexbox.io](http://flexbox.io): A simple 20 video course that will help you master CSS Flexbox by Wes Bos
 - [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies): Funny alternative way to learn flexbox
 - [HTML Reference](http://htmlreference.io/): Features all elements and attributes of HTML
 - [CSS Reference](http://cssreference.io/): Features all elements and attributes of CSS
 
-### CSS/SVG generators
+### CSS Grid tools
 
-- [The Hero Generator](https://hero-generator.netlify.app/)
-- [Blobmaker](https://www.blobmaker.app/): Make organic SVG shapes for your next design
-- [Blobs](https://blobs.app/): Generate beautiful blob shapes for web and flutter apps
-- [Get Waves](https://getwaves.io/): Create SVG waves for your next design
-- [SVG Wave](https://svgwave.in/): A free & beautiful gradient SVG wave Generator
-- [Squircley](https://squircley.app/): SVG Squircle Maker
+- [Layoutit Grid](https://grid.layoutit.com/): CSS Grids layouts made easy
 
 ## SVG
 
-### Open source icon packs
+### Open source SVG icon packs
 
 - [Feather](https://feathericons.com/): Simply beautiful open source icons
 - [CSS.gg](https://css.gg/): 700+ Pure CSS, SVG & Figma UI Icons
@@ -40,16 +37,25 @@
 - [Hero icons](https://heroicons.dev/): A set of free MIT-licensed high-quality SVG icons for UI development
 - [Ionicons](https://ionic.io/ionicons): Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere
 
-### Other SVG & SVG tools
-
-- [SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders): Loading icons and small animations built with pure SVG
-- [URL-encoder for SVG](https://yoksel.github.io/url-encoder/): URL-encoder, useful for SVG background elements
-
-### Illustrations
+### SVG illustrations
 
 - [unDraw](https://undraw.co/illustrations): Open source illustrations for any idea
 - [ManyPixels](https://www.manypixels.co/gallery): 2,000+ royalty-free illustrations to power up your designs
 - [Scale](https://2.flexiple.com/scale/all-illustrations): One new high-quality, open-source illustration each day
+
+### CSS/SVG generators
+
+- [The Hero Generator](https://hero-generator.netlify.app/)
+- [Blobmaker](https://www.blobmaker.app/): Make organic SVG shapes for your next design
+- [Blobs](https://blobs.app/): Generate beautiful blob shapes for web and flutter apps
+- [Get Waves](https://getwaves.io/): Create SVG waves for your next design
+- [SVG Wave](https://svgwave.in/): A free & beautiful gradient SVG wave Generator
+- [Squircley](https://squircley.app/): SVG Squircle Maker
+
+### Other SVG & SVG tools
+
+- [SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders): Loading icons and small animations built with pure SVG
+- [URL-encoder for SVG](https://yoksel.github.io/url-encoder/): URL-encoder, useful for SVG background elements
 
 ## Typography 
 
