@@ -40,9 +40,10 @@
 - [Hero icons](https://heroicons.dev/): A set of free MIT-licensed high-quality SVG icons for UI development
 - [Ionicons](https://ionic.io/ionicons): Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere
 
-### Other SVG
+### Other SVG & SVG tools
 
 - [SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders): Loading icons and small animations built with pure SVG
+- [URL-encoder for SVG](https://yoksel.github.io/url-encoder/): URL-encoder, useful for SVG background elements
 
 ### Illustrations
 
@@ -116,7 +117,6 @@
 
 ### Image & SVG optimization and manipulation
 
-- [URL-encoder for SVG](https://yoksel.github.io/url-encoder/): URL-encoder, useful for SVG background elements.
 - [Optimage](https://optimage.app/): Automatically compress images without losing quality
 - [ImageOptim](https://imageoptim.com/mac): ImageOptim makes images load faster
 - [SVGO](https://github.com/svg/svgo): Nodejs-based tool for optimizing SVG vector graphics files.
