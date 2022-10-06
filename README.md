@@ -40,6 +40,10 @@
 - [Hero icons](https://heroicons.dev/): A set of free MIT-licensed high-quality SVG icons for UI development
 - [Ionicons](https://ionic.io/ionicons): Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere
 
+### Other SVG
+
+- [SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders): Loading icons and small animations built with pure SVG
+
 ### Illustrations
 
 - [unDraw](https://undraw.co/illustrations): Open source illustrations for any idea
